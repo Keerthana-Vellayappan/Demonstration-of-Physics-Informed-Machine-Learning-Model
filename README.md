@@ -13,11 +13,17 @@ The First Principle equation for this system is as follows:
 
 Where,
 𝐶_𝐴: Concentration of reactant A 
+
 𝑇: Temperature of the reactor 
+
 𝐶_𝐴0: Concentration of reactant A in the feed 
- 𝑄 :  Heat input rate 
+
+𝑄 :  Heat input rate 
+
 F: feed volumetric flow rate
+
 𝑇0: Inlet temperature
+
 
 The State and Manipulated variable for this system is:
 States variables: 𝐱=[〖𝐶_𝐴−𝐶〗_𝐴𝑠,𝑇 −𝑇_𝑠 ]
@@ -42,10 +48,15 @@ The First Principle equation for this system is as follows:
 
 Where,
 𝐶_𝐴: Concentration of reactant A (kmol/m3)
+
 𝑇: Temperature of the reactor (K)
+
 U :  Overall heat transfer coefficient (kcal /m2 min K)
+
 u: superficial velocity (m/min)
+
 𝑇_𝑐: Cooling liquid temperature (K)
+
 
 The State and Manipulated variable for this system is:
 States variables: 𝐱=[𝐶𝐴,   𝑇]
