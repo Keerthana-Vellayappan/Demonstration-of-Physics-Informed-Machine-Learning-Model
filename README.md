@@ -113,4 +113,13 @@
 [similaritymeasures](https://github.com/similaritymeasures/similaritymeasures): Python library for computing similarity measures between curves or time series data.
 
 
+## 6. Citation
+
+The demonstration of these examples are adapted from the following literature work:
+
+Zheng, Yingzhe, Cheng Hu, Xiaonan Wang, and Zhe Wu. "Physics-informed recurrent neural network modeling for predictive control of nonlinear processes." Journal of Process Control 128 (2023): 103005.
+
+Additionally, you can find our paper [here]([Link to your paper](https://www.sciencedirect.com/science/article/pii/S0959152423000847)https://www.sciencedirect.com/science/article/pii/S0959152423000847)
+
+
 
