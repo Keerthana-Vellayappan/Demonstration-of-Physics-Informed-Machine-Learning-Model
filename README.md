@@ -10,6 +10,7 @@ Let us consider a second-order, exothermic, irreversible reaction from A to B
 The First Principle equation for this system is as follows:
 
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/da9e944b-1b0c-4694-8b48-2a21f49d55ed)
+<img src="![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/da9e944b-1b0c-4694-8b48-2a21f49d55ed)" width="300" height="200">
 
 Where,
 
