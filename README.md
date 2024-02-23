@@ -1,4 +1,4 @@
-![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/77dd92fd-78ba-4839-be38-287ecfbf5b9b)# Demonstration of Physics Informed Machine Learning Model
+# Demonstration of Physics Informed Machine Learning Model
 
 # 1. CSTR PIRNN Example
 
@@ -9,8 +9,7 @@ Let us consider a second-order, exothermic, irreversible reaction from A to B
 
 The First Principle equation for this system is as follows:
 
-(𝑑𝐶_𝐴)/𝑑𝑡=𝐹/𝑉 (𝐶_𝐴0−𝐶_𝐴 )−𝑘_0 𝑒^((−𝐸)/𝑅𝑇) 〖𝐶_𝐴〗^2
-𝑑𝑇/𝑑𝑡=𝐹/𝑉 (𝑇_0−𝑇)+(−𝛥𝐻)/(𝜌_𝐿 𝐶_𝑃 ) 𝑘_0 𝑒^((−𝐸)/𝑅𝑇) 〖𝐶_𝐴〗^2+𝑄/(𝜌_𝐿 𝐶_𝑃 𝑉)![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/da9e944b-1b0c-4694-8b48-2a21f49d55ed)
+![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/da9e944b-1b0c-4694-8b48-2a21f49d55ed)
 
 Where,
 𝐶_𝐴: Concentration of reactant A 
@@ -39,8 +38,6 @@ Let us consider a first-order, exothermic, irreversible reaction from A to B
 
 The First Principle equation for this system is as follows:
 
-𝜕𝐶𝐴" " /𝜕𝑡=−𝑢 𝜕𝐶𝐴" " /𝜕𝑧−𝑘_0 𝑒^((−𝐸)/𝑅𝑇) 𝐶𝐴
-𝜕𝑇/𝜕𝑡=−𝑢 𝜕𝑇/𝜕𝑧+(−𝛥𝐻)/(𝜌_𝐿 𝐶_𝑃 ) 𝑘_0 𝑒^((−𝐸)/𝑅𝑇) 𝐶𝐴+𝑈/(𝜌_𝐿 𝐶_𝑃 𝐴) 𝐴_𝑡 (𝑇_𝑐  −𝑇)
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/e34d27cd-885b-4950-b6e9-37a38b8d0254)
 
 Where,
@@ -82,9 +79,13 @@ Output: Future state dynamics 𝐱〖(𝑡〗_𝑘+Δ) are predicted for one sam
 
 # Libraries and Tools used
 [PyTorch](https://pytorch.org/): Deep learning framework used for building and training neural networks.
+
 [Matplotlib](https://matplotlib.org/): Python plotting library for creating visualizations.
+
 [SciPy](https://www.scipy.org/): Open-source library used for scientific and technical computing.
+
 [scikit-learn](https://scikit-learn.org/): Machine learning library for Python used for data analysis and modeling.
+
 [similaritymeasures](https://github.com/similaritymeasures/similaritymeasures): Python library for computing similarity measures between curves or time series data.
 
 
