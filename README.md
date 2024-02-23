@@ -12,6 +12,7 @@ The First Principle equation for this system is as follows:
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/da9e944b-1b0c-4694-8b48-2a21f49d55ed)
 
 Where,
+
 𝐶_𝐴: Concentration of reactant A 
 
 𝑇: Temperature of the reactor 
@@ -47,6 +48,7 @@ The First Principle equation for this system is as follows:
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/e34d27cd-885b-4950-b6e9-37a38b8d0254)
 
 Where,
+
 𝐶_𝐴: Concentration of reactant A (kmol/m3)
 
 𝑇: Temperature of the reactor (K)
