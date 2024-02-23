@@ -1,6 +1,6 @@
 # Demonstration of Physics Informed Machine Learning Model
 
-## 1. CSTR PIRNN Example
+## 1. Continuous Stireed Tank Reactor (CSTR) Example
 
 - Let us consider a second-order, exothermic, irreversible reaction from A to B
 
@@ -40,7 +40,7 @@
 
 - The code for demonstrating the PIRNN model for the CSTR is available [here](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/blob/main/CSTR%20PI-RNN%20Example.ipynb)
 
-## 2. PFR PIRNN Example
+## 2. Plug Flow Reactor (PFR) Example
 
 - Let us consider a first-order, exothermic, irreversible reaction from A to B
 
