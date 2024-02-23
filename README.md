@@ -36,7 +36,9 @@
 
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/f41bd653-cb8d-43de-950e-71946ddc79d8)
 
-The above data sample is for a dataset with n samples with 6 internal time-steps for each sample.
+- The above data sample is for a dataset with n samples with 6 internal time-steps for each sample.
+
+- The code for demonstrating the PIRNN model for the CSTR is available [here](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/blob/main/CSTR%20PI-RNN%20Example.ipynb)
 
 ## 2. PFR PIRNN Example
 
@@ -69,9 +71,9 @@ The above data sample is for a dataset with n samples with 6 internal time-steps
 
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/2e739dd2-a2e0-4cfb-a841-983dd760df9a)
 
-The above data is for a dataset with n samples with 6 internal time-steps for each sample with the Plug Flow Reactor length discretized into 10 points.
+- The above data is for a dataset with n samples with 6 internal time-steps for each sample with the Plug Flow Reactor length discretized into 10 points.
 
-
+- The code for demonstrating PIRNN model for a PFR is available [here](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/blob/main/PFR%20PI-RNN%20Example.ipynb)
 
 ## 3. Principle for Physics-Informed Loss
 
