@@ -1,6 +1,6 @@
 # Demonstration of Physics Informed Machine Learning Model
 
-# 1. CSTR PIRNN Example
+## 1. CSTR PIRNN Example
 
 Let us consider a second-order, exothermic, irreversible reaction from A to B
 
@@ -36,7 +36,7 @@ The generated dataset with the input and output will look like:
 
 The above data is for a dataset with n samples with 6 internal time-steps for each sample.
 
-# 2. PFR PIRNN Example
+## 2. PFR PIRNN Example
 
 Let us consider a first-order, exothermic, irreversible reaction from A to B
 
@@ -70,7 +70,7 @@ The generated dataset with the input and output will look like:
 
 The above data is for a dataset with n samples with 6 internal time-steps for each sample with the Plug Flow Reactor length discretized into 10 points.
 
-# 3. Principle for Physics-Informed Loss
+## 3. Principle for Physics-Informed Loss
 
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/4f5b19db-09df-4547-9872-a58f16aa458f)
 
@@ -79,7 +79,7 @@ The ODE is explicitly embedded in the loss function and is calculated based on t
 The RHS of the ODE is computed by substituting the PIRNN predicted states and the manipulated inputs into the first principle equation.
 The physics informed loss is the error between the LHS and RHS of the ODE using the PIRNN predicted results and is incorporated during model training. 
 
-# 4. Recurrent Neural Network (RNN) Structure
+## 4. Recurrent Neural Network (RNN) Structure
 
 RNN are a class of neural networks that is powerful for modeling sequence data such as time series data.
 It can handle sequential data and account for past information in the current prediction.
@@ -90,7 +90,8 @@ Output: Future state dynamics 𝐱〖(𝑡〗_𝑘+Δ) are predicted for one sam
 
 ![image](https://github.com/Keerthana-Vellayappan/Demonstration-of-Physics-Informed-Machine-Learning-Model/assets/160836399/332a1da6-9b89-4e04-a6b3-1b5c90185319)
 
-# Libraries and Tools used
+## 5. Libraries and Tools used
+
 [PyTorch](https://pytorch.org/): Deep learning framework used for building and training neural networks.
 
 [Matplotlib](https://matplotlib.org/): Python plotting library for creating visualizations.
