@@ -1,6 +1,6 @@
 # Demonstration of Physics Informed Machine Learning Model
 
-## 1. Continuous Stireed Tank Reactor (CSTR) Example
+## 1. Continuous Stirred Tank Reactor (CSTR) Example
 
 - Let us consider a second-order, exothermic, irreversible reaction from A to B
 
